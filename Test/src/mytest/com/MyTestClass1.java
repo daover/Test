@@ -6,5 +6,8 @@ public class MyTestClass1 {
 		
 		System.out.println("2nd class ex");
 	}
-
+	public void method1()
+	{
+		System.out.println("2nd class- Second Ex");
+	}
 }
