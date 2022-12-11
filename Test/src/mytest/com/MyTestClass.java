@@ -11,6 +11,10 @@ public class MyTestClass {
 	{
 		System.out.println("Second Ex");
 	}
+	public void method2()
+	{
+		System.out.println("Third Ex");
+	}
 	
 
 }
