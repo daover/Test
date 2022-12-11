@@ -15,6 +15,10 @@ public class MyTestClass {
 	{
 		System.out.println("Third Ex");
 	}
+	public void method3()
+	{
+		System.out.println("Fourth Ex");
+	}
 	
 
 }
