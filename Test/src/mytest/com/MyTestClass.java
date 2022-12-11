@@ -7,6 +7,10 @@ public class MyTestClass {
 		
 		System.out.println("Fistrt ex");
 	}
+	public void method()
+	{
+		System.out.println("Second Ex");
+	}
 	
 
 }
